@@ -7,7 +7,7 @@ This project demonstrates the deployment of a web application on AWS using vario
 
 ## Architecture Diagram
 
-![Architecture Diagram](link-to-your-diagram.png)
+![Architecture Diagram](End-end-diagram.png)
 
 ## Deployment Steps
 
